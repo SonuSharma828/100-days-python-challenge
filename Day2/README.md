@@ -21,4 +21,4 @@
 To run the program, make sure you have Python installed on your machine. Run the following command in your terminal:
 
 ```bash
-python guess_the_number.py
+python GuessNumber.py
