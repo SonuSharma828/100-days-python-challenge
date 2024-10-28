@@ -20,3 +20,10 @@ A simple command-line game of Stone-Paper-Scissor in Python. The player plays ag
 3. Enjoy the game!
 
 ### Example Output
+##Welcome to the game of stone, paper, and scissor
+
+1.Play the game
+2.Exit
+Enter your choice: 1
+
+Enter your choice (stone, paper, scissor): stone You chose stone and computer chose paper You lose
